@@ -1,0 +1,15 @@
+C:\Users\stfal\Desktop\C#\targetSum\bin\Debug\net7.0\targetSum.exe
+C:\Users\stfal\Desktop\C#\targetSum\bin\Debug\net7.0\targetSum.deps.json
+C:\Users\stfal\Desktop\C#\targetSum\bin\Debug\net7.0\targetSum.runtimeconfig.json
+C:\Users\stfal\Desktop\C#\targetSum\bin\Debug\net7.0\targetSum.dll
+C:\Users\stfal\Desktop\C#\targetSum\bin\Debug\net7.0\targetSum.pdb
+C:\Users\stfal\Desktop\C#\targetSum\obj\Debug\net7.0\targetSum.csproj.AssemblyReference.cache
+C:\Users\stfal\Desktop\C#\targetSum\obj\Debug\net7.0\targetSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stfal\Desktop\C#\targetSum\obj\Debug\net7.0\targetSum.AssemblyInfoInputs.cache
+C:\Users\stfal\Desktop\C#\targetSum\obj\Debug\net7.0\targetSum.AssemblyInfo.cs
+C:\Users\stfal\Desktop\C#\targetSum\obj\Debug\net7.0\targetSum.csproj.CoreCompileInputs.cache
+C:\Users\stfal\Desktop\C#\targetSum\obj\Debug\net7.0\targetSum.dll
+C:\Users\stfal\Desktop\C#\targetSum\obj\Debug\net7.0\refint\targetSum.dll
+C:\Users\stfal\Desktop\C#\targetSum\obj\Debug\net7.0\targetSum.pdb
+C:\Users\stfal\Desktop\C#\targetSum\obj\Debug\net7.0\targetSum.genruntimeconfig.cache
+C:\Users\stfal\Desktop\C#\targetSum\obj\Debug\net7.0\ref\targetSum.dll
