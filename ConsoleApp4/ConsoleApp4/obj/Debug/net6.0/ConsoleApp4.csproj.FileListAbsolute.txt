@@ -1,0 +1,14 @@
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\stfal\Desktop\CSlearn\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
