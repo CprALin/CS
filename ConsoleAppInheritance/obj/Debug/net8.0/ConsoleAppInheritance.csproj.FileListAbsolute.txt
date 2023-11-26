@@ -1,0 +1,15 @@
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.exe
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.deps.json
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.runtimeconfig.json
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.dll
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.pdb
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.AssemblyInfoInputs.cache
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.AssemblyInfo.cs
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.csproj.CoreCompileInputs.cache
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.sourcelink.json
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.dll
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\obj\Debug\net8.0\refint\ConsoleAppInheritance.dll
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.pdb
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.genruntimeconfig.cache
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppInheritance\obj\Debug\net8.0\ref\ConsoleAppInheritance.dll

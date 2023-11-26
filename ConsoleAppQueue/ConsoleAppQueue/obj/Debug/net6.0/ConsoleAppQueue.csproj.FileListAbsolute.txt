@@ -1,0 +1,15 @@
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\bin\Debug\net6.0\ConsoleAppQueue.exe
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\bin\Debug\net6.0\ConsoleAppQueue.deps.json
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\bin\Debug\net6.0\ConsoleAppQueue.runtimeconfig.json
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\bin\Debug\net6.0\ConsoleAppQueue.dll
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\bin\Debug\net6.0\ConsoleAppQueue.pdb
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\obj\Debug\net6.0\ConsoleAppQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\obj\Debug\net6.0\ConsoleAppQueue.AssemblyInfoInputs.cache
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\obj\Debug\net6.0\ConsoleAppQueue.AssemblyInfo.cs
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\obj\Debug\net6.0\ConsoleAppQueue.csproj.CoreCompileInputs.cache
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\obj\Debug\net6.0\ConsoleAppQueue.dll
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\obj\Debug\net6.0\refint\ConsoleAppQueue.dll
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\obj\Debug\net6.0\ConsoleAppQueue.pdb
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\obj\Debug\net6.0\ConsoleAppQueue.genruntimeconfig.cache
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\obj\Debug\net6.0\ref\ConsoleAppQueue.dll
+C:\Users\stfal\Desktop\CSlearn\ConsoleAppQueue\ConsoleAppQueue\obj\Debug\net6.0\ConsoleAppQueue.sourcelink.json

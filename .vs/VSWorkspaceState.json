@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConsoleApp8",
+    "\\ConsoleApp8\\ConsoleApp8",
+    "\\ConsoleAppInheritance"
   ],
+  "SelectedNode": "\\ConsoleAppInheritance\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

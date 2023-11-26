@@ -1,0 +1,15 @@
+C:\Users\stfal\Desktop\CSlearn\AppOverride\bin\Debug\net8.0\AppOverride.exe
+C:\Users\stfal\Desktop\CSlearn\AppOverride\bin\Debug\net8.0\AppOverride.deps.json
+C:\Users\stfal\Desktop\CSlearn\AppOverride\bin\Debug\net8.0\AppOverride.runtimeconfig.json
+C:\Users\stfal\Desktop\CSlearn\AppOverride\bin\Debug\net8.0\AppOverride.dll
+C:\Users\stfal\Desktop\CSlearn\AppOverride\bin\Debug\net8.0\AppOverride.pdb
+C:\Users\stfal\Desktop\CSlearn\AppOverride\obj\Debug\net8.0\AppOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stfal\Desktop\CSlearn\AppOverride\obj\Debug\net8.0\AppOverride.AssemblyInfoInputs.cache
+C:\Users\stfal\Desktop\CSlearn\AppOverride\obj\Debug\net8.0\AppOverride.AssemblyInfo.cs
+C:\Users\stfal\Desktop\CSlearn\AppOverride\obj\Debug\net8.0\AppOverride.csproj.CoreCompileInputs.cache
+C:\Users\stfal\Desktop\CSlearn\AppOverride\obj\Debug\net8.0\AppOverride.sourcelink.json
+C:\Users\stfal\Desktop\CSlearn\AppOverride\obj\Debug\net8.0\AppOverride.dll
+C:\Users\stfal\Desktop\CSlearn\AppOverride\obj\Debug\net8.0\refint\AppOverride.dll
+C:\Users\stfal\Desktop\CSlearn\AppOverride\obj\Debug\net8.0\AppOverride.pdb
+C:\Users\stfal\Desktop\CSlearn\AppOverride\obj\Debug\net8.0\AppOverride.genruntimeconfig.cache
+C:\Users\stfal\Desktop\CSlearn\AppOverride\obj\Debug\net8.0\ref\AppOverride.dll
